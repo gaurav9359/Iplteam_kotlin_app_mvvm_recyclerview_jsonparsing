@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "background": "#E73E3E",
+    "teamname": "RCB",
+    "players": [
+      {
+        "name": "Virat kohli",
+        "speciality": "Batsman",
+        "runs": 5000,
+        "wickets": 0
+      },
+      {
+        "name": "Yash Dayal",
+        "speciality": "Bowler",
+        "runs": 500,
+        "wickets": 150
+      },
+      {
+        "name": "Faf du Plessis",
+        "speciality": "Batsman",
+        "runs": 4000,
+        "wickets": 0
+      },
+      {
+        "name": "Harshal Patel",
+        "speciality": "Bowler",
+        "runs": 100,
+        "wickets": 120
+      },
+      {
+        "name": "Dinesh Karthik",
+        "speciality": "Batsman",
+        "runs": 3500,
+        "wickets": 0
+      },
+      {
+        "name": "Josh Hazlewood",
+        "speciality": "Bowler",
+        "runs": 50,
+        "wickets": 80
+      }
+    ],
+    "wins": 10,
+    "losses": 5
+  },
+  {
+    "id": 2,
+    "background": "#2196F3",
+    "teamname": "Mumbai Indians",
+    "players": [
+      {
+        "name": "Rohit Sharma",
+        "speciality": "Batsman",
+        "runs": 2000,
+        "wickets": 100
+      },
+      {
+        "name": "Ishan Kishan",
+        "speciality": "Batsman",
+        "runs": 4500,
+        "wickets": 10
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "speciality": "Bowler",
+        "runs": 50,
+        "wickets": 150
+      },
+      {
+        "name": "Tilak Varma",
+        "speciality": "Batsman",
+        "runs": 3000,
+        "wickets": 0
+      },
+      {
+        "name": "Dewald Brevis",
+        "speciality": "All-rounder",
+        "runs": 2500,
+        "wickets": 50
+      },
+      {
+        "name": "Daniel Sams",
+        "speciality": "Bowler",
+        "runs": 200,
+        "wickets": 120
+      },
+      {
+        "name": "Tim David",
+        "speciality": "Batsman",
+        "runs": 1800,
+        "wickets": 10
+      }
+    ],
+    "wins": 8,
+    "losses": 7
+  },
+  {
+    "id": 3,
+    "teamname": "CSk",
+    "background": "#FFEB3B",
+    "players": [
+      {
+        "name": "Dhoni",
+        "speciality": "Batsman",
+        "runs": 20000,
+        "wickets": 10
+      },
+      {
+        "name": "Chahar",
+        "speciality": "Bowler",
+        "runs": 50,
+        "wickets": 153
+      },
+      {
+        "name": "Ruturaj Gaikwad",
+        "speciality": "Batsman",
+        "runs": 4500,
+        "wickets": 0
+      },
+      {
+        "name": "Moeen Ali",
+        "speciality": "All-rounder",
+        "runs": 3000,
+        "wickets": 80
+      },
+      {
+        "name": "Dwayne Bravo",
+        "speciality": "All-rounder",
+        "runs": 2500,
+        "wickets": 120
+      },
+      {
+        "name": "Deepak Chahar",
+        "speciality": "Bowler",
+        "runs": 200,
+        "wickets": 100
+      }
+    ],
+    "wins": 8,
+    "losses": 7
+  },
+  {
+    "id": 4,
+    "teamname": "Kolkata Knight Riders",
+    "background": "#673AB7",
+    "players": [
+      {
+        "name": "Shreyash iyyer",
+        "speciality": "Batsman",
+        "runs": 2000,
+        "wickets": 10
+      },
+      {
+        "name": "Andre Russell",
+        "speciality": "All-rounder",
+        "runs": 5044,
+        "wickets": 153
+      },
+      {
+        "name": "Venkatesh Iyer",
+        "speciality": "All-rounder",
+        "runs": 3500,
+        "wickets": 50
+      },
+      {
+        "name": "Umesh Yadav",
+        "speciality": "Bowler",
+        "runs": 100,
+        "wickets": 120
+      },
+      {
+        "name": "Nitish Rana",
+        "speciality": "Batsman",
+        "runs": 4000,
+        "wickets": 0
+      },
+      {
+        "name": "Sunil Narine",
+        "speciality": "All-rounder",
+        "runs": 2000,
+        "wickets": 100
+      },
+      {
+        "name": "Tim Southee",
+        "speciality": "Bowler",
+        "runs": 50,
+        "wickets": 80
+      }
+    ],
+    "wins": 8,
+    "losses": 7
+  }
+]
